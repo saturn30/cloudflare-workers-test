@@ -1,4 +1,4 @@
-name = "prisma-mongodb-cloudflare"
+name = "prisma-mongodb-cloudflare123"
 type = "webpack"
 webpack_config = "webpack.config.js"
 route = ''
